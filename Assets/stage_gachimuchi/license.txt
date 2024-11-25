@@ -1,0 +1,11 @@
+Model Information:
+* title:	stage gachimuchi
+* source:	https://sketchfab.com/3d-models/stage-gachimuchi-a163994b0faa40d2a12097ef1d9e8642
+* author:	Ghozali.Ghozalu (https://sketchfab.com/Ghozali.Ghozalu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "stage gachimuchi" (https://sketchfab.com/3d-models/stage-gachimuchi-a163994b0faa40d2a12097ef1d9e8642) by Ghozali.Ghozalu (https://sketchfab.com/Ghozali.Ghozalu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

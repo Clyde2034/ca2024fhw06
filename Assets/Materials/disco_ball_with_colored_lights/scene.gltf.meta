@@ -1,0 +1,57 @@
+fileFormatVersion: 2
+guid: 9a22d54c3b7cd444d8e28d869de9efce
+importerOverride:
+  nativeImporterType: 2089858483
+  scriptedImporterType:
+    serializedVersion: 2
+    Hash: 11cfd87914329c361eb601eb4aa5cd66
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color-light
+    second: {fileID: 2100000, guid: efa91c273da168445be05373f0c200c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color-light.001
+    second: {fileID: 2100000, guid: 44dc986c9602f7c4887c0d49bd993a0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color-light.002
+    second: {fileID: 2100000, guid: 5e4cef40e14cf654d8e3bfbb2fb82f0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color-light.003
+    second: {fileID: 2100000, guid: b69be9ed0e078994986ba2d6496141ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color-light.004
+    second: {fileID: 2100000, guid: 97ec11816a555414c92c17ce381e04be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color-light.005
+    second: {fileID: 2100000, guid: e8d3682919571634889d97f84a46344d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plast
+    second: {fileID: 2100000, guid: 7a0ebe902824be848819954ccfdd5c23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: totalmetal
+    second: {fileID: 2100000, guid: f5c5f323fed0b0646b3df5dd56739c56, type: 2}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: aecd2106718f2444db3ca21345da2cef, type: 3}
+  reverseAxis: 0
+  renderPipeline: 0

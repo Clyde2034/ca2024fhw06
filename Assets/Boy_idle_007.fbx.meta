@@ -1,0 +1,1273 @@
+fileFormatVersion: 2
+guid: 81cbe1575b965514ca3d7d557542ca7a
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Boy_idle_007_mcp' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'MoCap_TaipeiTech_1016:Spine3' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'MoCap_TaipeiTech_1016:Neck1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'MoCap_TaipeiTech_1016:RightHandRing'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'MoCap_TaipeiTech_1016:RightHandPinky'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'MoCap_TaipeiTech_1016:RightHandIndex'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'MoCap_TaipeiTech_1016:RightHandThumb1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'MoCap_TaipeiTech_1016:LeftHandRing'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'MoCap_TaipeiTech_1016:LeftHandPinky'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'MoCap_TaipeiTech_1016:LeftHandIndex'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'MoCap_TaipeiTech_1016:LeftHandThumb1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Boy_idle_007_mcp
+      takeName: Boy_idle_007_mcp
+      internalID: -5982840675919977740
+      firstFrame: 1
+      lastFrame: 14944
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: VideoStart
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.59999996
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: MoCap_TaipeiTech_1016:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:LeftHandIndex1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:LeftHandIndex2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:LeftHandIndex3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:LeftHandThumb2
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:LeftHandThumb3
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:LeftHandThumb4
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:LeftHandPinky1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:LeftHandPinky2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:LeftHandPinky3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:LeftHandRing1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:LeftHandRing2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:LeftHandRing3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:RightHandIndex1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:RightHandIndex2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:RightHandIndex3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:RightHandThumb2
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:RightHandThumb3
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:RightHandThumb4
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:RightHandPinky1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:RightHandPinky2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:RightHandPinky3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:RightHandRing1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:RightHandRing2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:RightHandRing3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MoCap_TaipeiTech_1016:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Boy_idle_007(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:Position
+      parentName: Boy_idle_007(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:Hips
+      parentName: Boy_idle_007(Clone)
+      position: {x: -9.313226e-10, y: 0.77477986, z: -0.017711267}
+      rotation: {x: -0.035145305, y: -0.057289325, z: -0.0154133495, w: 0.99761975}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:Spine
+      parentName: MoCap_TaipeiTech_1016:Hips
+      position: {x: -0, y: 0.13585535, z: -0.012468055}
+      rotation: {x: 0.014213284, y: -0.0054365173, z: 0.008648509, w: 0.9998468}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:Spine1
+      parentName: MoCap_TaipeiTech_1016:Spine
+      position: {x: -0, y: 0.091951445, z: 0}
+      rotation: {x: 0.036099717, y: 0.0025067702, z: 0.0030572847, w: 0.9993404}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:Spine2
+      parentName: MoCap_TaipeiTech_1016:Spine1
+      position: {x: -0, y: 0.091951445, z: 0}
+      rotation: {x: 0.00086902507, y: 0.038967695, z: 0.006865681, w: 0.99921656}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:Spine3
+      parentName: MoCap_TaipeiTech_1016:Spine2
+      position: {x: -0, y: 0.091951445, z: 0}
+      rotation: {x: -0.014212647, y: 0.0064011407, z: 0.011923551, w: 0.9998074}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:Neck
+      parentName: MoCap_TaipeiTech_1016:Spine3
+      position: {x: -0, y: 0.118223295, z: 0.01182233}
+      rotation: {x: 0.07947907, y: 0.037184514, z: -0.01746126, w: 0.99598974}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:Neck1
+      parentName: MoCap_TaipeiTech_1016:Neck
+      position: {x: -0, y: 0.049529545, z: 0}
+      rotation: {x: 0.04209335, y: 0.040045757, z: -0.0012309559, w: 0.9983101}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:Head
+      parentName: MoCap_TaipeiTech_1016:Neck1
+      position: {x: -0, y: 0.049529545, z: 0}
+      rotation: {x: -0.06986759, y: 0.0023302038, z: -0.0010148372, w: 0.99755305}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:HeadEnd
+      parentName: MoCap_TaipeiTech_1016:Head
+      position: {x: -0, y: 0.0972772, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RightShoulder
+      parentName: MoCap_TaipeiTech_1016:Spine3
+      position: {x: -0, y: 0.08444521, z: 0.04237196}
+      rotation: {x: -0.07733548, y: 0.07181076, z: -0.7287047, w: 0.6766476}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RightArm
+      parentName: MoCap_TaipeiTech_1016:RightShoulder
+      position: {x: -0, y: 0.1759195, z: 0}
+      rotation: {x: 0.1328048, y: -0.39250162, z: -0.015154511, w: 0.9099867}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RightForeArm
+      parentName: MoCap_TaipeiTech_1016:RightArm
+      position: {x: -0, y: 0.26419765, z: 0}
+      rotation: {x: -0.030375633, y: 0.12981987, z: -0.025385678, w: 0.99074703}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RightHand
+      parentName: MoCap_TaipeiTech_1016:RightForeArm
+      position: {x: -0, y: 0.21256055, z: 0}
+      rotation: {x: -0.14371347, y: -0.001689919, z: 0.011636061, w: 0.9895495}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RightHandMiddle1
+      parentName: MoCap_TaipeiTech_1016:RightHand
+      position: {x: -0, y: 0.087612934, z: 0}
+      rotation: {x: -0.06288724, y: 0.00506298, z: -0.052828927, w: 0.99660856}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RightHandMiddle2
+      parentName: MoCap_TaipeiTech_1016:RightHandMiddle1
+      position: {x: -0, y: 0.04650282, z: 0}
+      rotation: {x: 0.0000020787113, y: 0.00000029383216, z: -0.03151255, w: 0.99950343}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RightHandMiddle3
+      parentName: MoCap_TaipeiTech_1016:RightHandMiddle2
+      position: {x: -0, y: 0.030179305, z: 0}
+      rotation: {x: 0.0000023147593, y: 0.00000024768488, z: -0.035485703, w: 0.9993702}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RightHandMiddle4
+      parentName: MoCap_TaipeiTech_1016:RightHandMiddle3
+      position: {x: -0, y: 0.01807502, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RightHandRing
+      parentName: MoCap_TaipeiTech_1016:RightHand
+      position: {x: 0.0025, y: 0.0025, z: -0.008147623}
+      rotation: {x: -0.075923406, y: -0.06805356, z: -0.0017717974, w: 0.99478704}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RightHandRing1
+      parentName: MoCap_TaipeiTech_1016:RightHandRing
+      position: {x: -0, y: 0.07761851, z: 0}
+      rotation: {x: 0.006013078, y: 0.00043284133, z: -0.04416137, w: 0.9990063}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RightHandRing2
+      parentName: MoCap_TaipeiTech_1016:RightHandRing1
+      position: {x: -0, y: 0.04326822, z: 0}
+      rotation: {x: -0.0000019962888, y: -0.00000022232403, z: -0.027703272, w: 0.99961627}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RightHandRing3
+      parentName: MoCap_TaipeiTech_1016:RightHandRing2
+      position: {x: -0, y: 0.029565526, z: 0}
+      rotation: {x: 0.00000030357978, y: 0.000000022444636, z: -0.039155915, w: 0.9992332}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RightHandRing4
+      parentName: MoCap_TaipeiTech_1016:RightHandRing3
+      position: {x: -0, y: 0.017971141, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RightHandPinky
+      parentName: MoCap_TaipeiTech_1016:RightHandRing
+      position: {x: 0.0025, y: 0.0025, z: -0.008147623}
+      rotation: {x: -0.11846656, y: -0.021981834, z: -0.005694127, w: 0.9926984}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RightHandPinky1
+      parentName: MoCap_TaipeiTech_1016:RightHandPinky
+      position: {x: -0, y: 0.065397315, z: 0}
+      rotation: {x: 0.11423364, y: 0.00037934055, z: -0.00042987525, w: 0.9934538}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RightHandPinky2
+      parentName: MoCap_TaipeiTech_1016:RightHandPinky1
+      position: {x: -0, y: 0.035312515, z: 0}
+      rotation: {x: 0.00000019371501, y: -0.00000013099628, z: -0.027773267, w: 0.9996143}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RightHandPinky3
+      parentName: MoCap_TaipeiTech_1016:RightHandPinky2
+      position: {x: -0, y: 0.022795865, z: 0}
+      rotation: {x: 0.000003010039, y: 0.0000004267421, z: -0.03288665, w: 0.9994591}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RightHandPinky4
+      parentName: MoCap_TaipeiTech_1016:RightHandPinky3
+      position: {x: -0, y: 0.016579155, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RightHandIndex
+      parentName: MoCap_TaipeiTech_1016:RightHand
+      position: {x: 0.0025, y: 0.0025, z: 0.008147623}
+      rotation: {x: 0.11042698, y: -0.04575032, z: -0.022786282, w: 0.9925692}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RightHandIndex1
+      parentName: MoCap_TaipeiTech_1016:RightHandIndex
+      position: {x: -0, y: 0.085129835, z: 0}
+      rotation: {x: 0.14959362, y: -0.033084303, z: -0.17589231, w: 0.972414}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RightHandIndex2
+      parentName: MoCap_TaipeiTech_1016:RightHandIndex1
+      position: {x: -0, y: 0.045231346, z: 0}
+      rotation: {x: 0.00000017881388, y: -0.0000003688036, z: -0.027855376, w: 0.99961203}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RightHandIndex3
+      parentName: MoCap_TaipeiTech_1016:RightHandIndex2
+      position: {x: -0, y: 0.027075844, z: 0}
+      rotation: {x: -0.0000007706576, y: -0.00000009139444, z: -0.03540532, w: 0.9993731}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RightHandIndex4
+      parentName: MoCap_TaipeiTech_1016:RightHandIndex3
+      position: {x: -0, y: 0.016433725, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RightHandThumb1
+      parentName: MoCap_TaipeiTech_1016:RightHandIndex
+      position: {x: 0.0075, y: 0.0025, z: 0.008147623}
+      rotation: {x: 0.2400424, y: 0.5703977, z: -0.15246473, w: 0.77057165}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RightHandThumb2
+      parentName: MoCap_TaipeiTech_1016:RightHandThumb1
+      position: {x: -0, y: 0.05662762, z: 0}
+      rotation: {x: -0.26908955, y: 0.008563843, z: -0.107900545, w: 0.9570136}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RightHandThumb3
+      parentName: MoCap_TaipeiTech_1016:RightHandThumb2
+      position: {x: -0, y: 0.037257995, z: 0}
+      rotation: {x: 0.00000086426684, y: -0.00000004097817, z: -0.038122054, w: 0.9992731}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RightHandThumb4
+      parentName: MoCap_TaipeiTech_1016:RightHandThumb3
+      position: {x: -0, y: 0.022510672, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LeftShoulder
+      parentName: MoCap_TaipeiTech_1016:Spine3
+      position: {x: -0, y: 0.08444521, z: 0.04237196}
+      rotation: {x: -0.15202257, y: -0.15264039, z: 0.68918556, w: 0.69181895}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LeftArm
+      parentName: MoCap_TaipeiTech_1016:LeftShoulder
+      position: {x: -0, y: 0.1759195, z: 0}
+      rotation: {x: 0.1935899, y: 0.2817237, z: 0.035374343, w: 0.9390971}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LeftForeArm
+      parentName: MoCap_TaipeiTech_1016:LeftArm
+      position: {x: -0, y: 0.26419765, z: 0}
+      rotation: {x: -0.06397175, y: -0.22590733, z: -0.00043770843, w: 0.97204596}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LeftHand
+      parentName: MoCap_TaipeiTech_1016:LeftForeArm
+      position: {x: -0, y: 0.21256055, z: 0}
+      rotation: {x: -0.13246347, y: 0.010879274, z: -0.08470292, w: 0.98750216}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LeftHandMiddle1
+      parentName: MoCap_TaipeiTech_1016:LeftHand
+      position: {x: -0, y: 0.08649643, z: 0}
+      rotation: {x: -0.06745953, y: -0.0034372308, z: 0.050770253, w: 0.9964235}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LeftHandMiddle2
+      parentName: MoCap_TaipeiTech_1016:LeftHandMiddle1
+      position: {x: -0, y: 0.045796312, z: 0}
+      rotation: {x: 0.000000119209275, y: -0.00000012572853, z: 0.035291124, w: 0.99937713}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LeftHandMiddle3
+      parentName: MoCap_TaipeiTech_1016:LeftHandMiddle2
+      position: {x: -0, y: 0.029678006, z: 0}
+      rotation: {x: 0.00000063019974, y: -0.000000024374966, z: 0.037656877, w: 0.9992908}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LeftHandMiddle4
+      parentName: MoCap_TaipeiTech_1016:LeftHandMiddle3
+      position: {x: -0, y: 0.01781515, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LeftHandRing
+      parentName: MoCap_TaipeiTech_1016:LeftHand
+      position: {x: -0.0025, y: 0.0025, z: -0.008114976}
+      rotation: {x: -0.06715104, y: 0.09260412, z: 0.009817172, w: 0.9933876}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LeftHandRing1
+      parentName: MoCap_TaipeiTech_1016:LeftHandRing
+      position: {x: -0, y: 0.0765519, z: 0}
+      rotation: {x: 0.0005037857, y: -0.000886872, z: 0.041538436, w: 0.9991364}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LeftHandRing2
+      parentName: MoCap_TaipeiTech_1016:LeftHandRing1
+      position: {x: -0, y: 0.04266678, z: 0}
+      rotation: {x: -0.0000014782994, y: 0.00000040035215, z: 0.031618807, w: 0.99950004}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LeftHandRing3
+      parentName: MoCap_TaipeiTech_1016:LeftHandRing2
+      position: {x: -0, y: 0.029149992, z: 0}
+      rotation: {x: 0.0000010577836, y: -0.0000000542305, z: 0.040327862, w: 0.9991865}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LeftHandRing4
+      parentName: MoCap_TaipeiTech_1016:LeftHandRing3
+      position: {x: -0, y: 0.017712764, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LeftHandPinky
+      parentName: MoCap_TaipeiTech_1016:LeftHandRing
+      position: {x: -0.0025, y: 0.0025, z: -0.008114976}
+      rotation: {x: -0.097652726, y: 0.031763777, z: 0.013684332, w: 0.9946194}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LeftHandPinky1
+      parentName: MoCap_TaipeiTech_1016:LeftHandPinky
+      position: {x: -0, y: 0.0646242, z: 0}
+      rotation: {x: 0.08700765, y: 0.0013203091, z: 0.0027731052, w: 0.9962029}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LeftHandPinky2
+      parentName: MoCap_TaipeiTech_1016:LeftHandPinky1
+      position: {x: -0, y: 0.03475429, z: 0}
+      rotation: {x: -0.0000012964005, y: 0.000000024796451, z: 0.03159763, w: 0.9995007}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LeftHandPinky3
+      parentName: MoCap_TaipeiTech_1016:LeftHandPinky2
+      position: {x: -0, y: 0.022359947, z: 0}
+      rotation: {x: 0.0000010473734, y: -0.00000029931337, z: 0.03516987, w: 0.9993814}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LeftHandPinky4
+      parentName: MoCap_TaipeiTech_1016:LeftHandPinky3
+      position: {x: -0, y: 0.016340792, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LeftHandIndex
+      parentName: MoCap_TaipeiTech_1016:LeftHand
+      position: {x: -0.0025, y: 0.0025, z: 0.008114976}
+      rotation: {x: 0.10505899, y: 0.06280341, z: 0.013462195, w: 0.9923896}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LeftHandIndex1
+      parentName: MoCap_TaipeiTech_1016:LeftHandIndex
+      position: {x: -0, y: 0.08394881, z: 0}
+      rotation: {x: 0.21685158, y: 0.010372833, z: 0.04888506, w: 0.9749247}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LeftHandIndex2
+      parentName: MoCap_TaipeiTech_1016:LeftHandIndex1
+      position: {x: -0, y: 0.044486493, z: 0}
+      rotation: {x: 0.0000005513426, y: -0.00000006612386, z: 0.033167038, w: 0.99944985}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LeftHandIndex3
+      parentName: MoCap_TaipeiTech_1016:LeftHandIndex2
+      position: {x: -0, y: 0.026630381, z: 0}
+      rotation: {x: 0.0000008478835, y: -0.00000014922884, z: 0.039027825, w: 0.9992382}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LeftHandIndex4
+      parentName: MoCap_TaipeiTech_1016:LeftHandIndex3
+      position: {x: -0, y: 0.016197452, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LeftHandThumb1
+      parentName: MoCap_TaipeiTech_1016:LeftHandIndex
+      position: {x: -0.0075, y: 0.0025, z: 0.008114976}
+      rotation: {x: 0.22228906, y: -0.5498558, z: 0.11688415, w: 0.796608}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LeftHandThumb2
+      parentName: MoCap_TaipeiTech_1016:LeftHandThumb1
+      position: {x: -0, y: 0.05574325, z: 0}
+      rotation: {x: -0.23965524, y: 0.00907486, z: 0.085255265, w: 0.96706486}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LeftHandThumb3
+      parentName: MoCap_TaipeiTech_1016:LeftHandThumb2
+      position: {x: -0, y: 0.036729302, z: 0}
+      rotation: {x: -0.0000011324877, y: 9.3132213e-10, z: 0.0393348, w: 0.9992261}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LeftHandThumb4
+      parentName: MoCap_TaipeiTech_1016:LeftHandThumb3
+      position: {x: -0, y: 0.02218703, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RightUpLeg
+      parentName: MoCap_TaipeiTech_1016:Hips
+      position: {x: 0.10034725, y: 0, z: 0}
+      rotation: {x: 0.05424767, y: 0.088857576, z: 0.0025879932, w: 0.9945626}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RightLeg
+      parentName: MoCap_TaipeiTech_1016:RightUpLeg
+      position: {x: -0, y: -0.3782109, z: 0}
+      rotation: {x: 0.07356283, y: -0, z: -0, w: 0.9972906}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RightFoot
+      parentName: MoCap_TaipeiTech_1016:RightLeg
+      position: {x: -0, y: -0.3559504, z: 0}
+      rotation: {x: -0.17683248, y: 0.020679595, z: 0.013693438, w: 0.9839284}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RightForeFoot
+      parentName: MoCap_TaipeiTech_1016:RightFoot
+      position: {x: -0, y: -0.031396233, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RightToeBase
+      parentName: MoCap_TaipeiTech_1016:RightForeFoot
+      position: {x: -0, y: 0, z: 0.12295761}
+      rotation: {x: 0.22051212, y: -0, z: -0, w: 0.97538424}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RightToeBaseEnd
+      parentName: MoCap_TaipeiTech_1016:RightToeBase
+      position: {x: -0, y: 0, z: 0.08679623}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LeftUpLeg
+      parentName: MoCap_TaipeiTech_1016:Hips
+      position: {x: -0.10034725, y: 0, z: 0}
+      rotation: {x: 0.022556674, y: -0.028559174, z: 0.025342029, w: 0.9990162}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LeftLeg
+      parentName: MoCap_TaipeiTech_1016:LeftUpLeg
+      position: {x: -0, y: -0.3782109, z: 0}
+      rotation: {x: 0.10817997, y: -0, z: -0, w: 0.9941313}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LeftFoot
+      parentName: MoCap_TaipeiTech_1016:LeftLeg
+      position: {x: -0, y: -0.3559504, z: 0}
+      rotation: {x: -0.16588412, y: 0.08564966, z: -0.055275157, w: 0.9808625}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LeftForeFoot
+      parentName: MoCap_TaipeiTech_1016:LeftFoot
+      position: {x: -0, y: -0.031396233, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LeftToeBase
+      parentName: MoCap_TaipeiTech_1016:LeftForeFoot
+      position: {x: -0, y: 0, z: 0.12295761}
+      rotation: {x: 0.21369088, y: -0, z: -0, w: 0.97690135}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LeftToeBaseEnd
+      parentName: MoCap_TaipeiTech_1016:LeftToeBase
+      position: {x: -0, y: 0, z: 0.086706445}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:ARIEL
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.020599341, y: 1.5875244, z: 0.003539224}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LFHD
+      parentName: Boy_idle_007(Clone)
+      position: {x: -0.085489206, y: 1.4897766, z: 0.06998058}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LBHD
+      parentName: Boy_idle_007(Clone)
+      position: {x: -0.079077706, y: 1.5076563, z: -0.05061758}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RFHD
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.07679886, y: 1.493206, z: 0.053181093}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RBHD
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.05516018, y: 1.5082484, z: -0.055098016}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:C7
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.0022370315, y: 1.3240875, z: -0.10549288}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:T10
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.0028804396, y: 1.1116558, z: -0.13307476}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LT10
+      parentName: Boy_idle_007(Clone)
+      position: {x: -0.07970605, y: 1.1110656, z: -0.12808856}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RT10
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.09093857, y: 1.1148052, z: -0.12219859}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:CLAV
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.000017119512, y: 1.2814686, z: 0.041800775}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:STRN
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.00021910468, y: 1.0871708, z: 0.07610565}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LFSH
+      parentName: Boy_idle_007(Clone)
+      position: {x: -0.11022323, y: 1.2508405, z: 0.034842458}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LTSH
+      parentName: Boy_idle_007(Clone)
+      position: {x: -0.105300434, y: 1.3365622, z: -0.04612341}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LBSH
+      parentName: Boy_idle_007(Clone)
+      position: {x: -0.12809588, y: 1.2465937, z: -0.10492125}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LUPA
+      parentName: Boy_idle_007(Clone)
+      position: {x: -0.2561183, y: 1.291116, z: -0.038673792}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LELB
+      parentName: Boy_idle_007(Clone)
+      position: {x: -0.3981033, y: 1.2448535, z: -0.04493977}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LBEL
+      parentName: Boy_idle_007(Clone)
+      position: {x: -0.39090776, y: 1.1769335, z: -0.03673462}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LFRM
+      parentName: Boy_idle_007(Clone)
+      position: {x: -0.48296556, y: 1.2564341, z: -0.039264593}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LIWR
+      parentName: Boy_idle_007(Clone)
+      position: {x: -0.62142015, y: 1.2344648, z: 0.004094025}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LOWR
+      parentName: Boy_idle_007(Clone)
+      position: {x: -0.6067253, y: 1.2314159, z: -0.0679813}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LIHAND
+      parentName: Boy_idle_007(Clone)
+      position: {x: -0.69620365, y: 1.2245495, z: -0.019484868}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LOHAND
+      parentName: Boy_idle_007(Clone)
+      position: {x: -0.6650171, y: 1.2037876, z: -0.08754203}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LTHM3
+      parentName: Boy_idle_007(Clone)
+      position: {x: -0.71238023, y: 1.1887658, z: 0.009688486}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LIDX3
+      parentName: Boy_idle_007(Clone)
+      position: {x: -0.76147395, y: 1.2150375, z: -0.06706376}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LPNK3
+      parentName: Boy_idle_007(Clone)
+      position: {x: -0.7161297, y: 1.2034956, z: -0.09822283}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RFSH
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.12231392, y: 1.2610277, z: 0.02713639}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RTSH
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.09806494, y: 1.3313028, z: -0.051161513}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RBSH
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.13136767, y: 1.2630111, z: -0.10216529}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RUPA
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.2864658, y: 1.2962718, z: -0.026285326}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RELB
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.36549217, y: 1.2985771, z: -0.023982832}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RBEL
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.39617297, y: 1.2158879, z: -0.023267087}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RFRM
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.5109085, y: 1.2896632, z: -0.031423304}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RIWR
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.61865807, y: 1.2951591, z: 0.009953062}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:ROWR
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.6159225, y: 1.2496606, z: -0.060652412}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RIHAND
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.69462126, y: 1.2782185, z: -0.014982109}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:ROHAND
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.6680696, y: 1.2352253, z: -0.07076801}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RTHM3
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.7162822, y: 1.2442279, z: 0.031180445}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RIDX3
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.7719239, y: 1.2345562, z: -0.048385516}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RPNK3
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.7183157, y: 1.2286792, z: -0.07701419}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LFWT
+      parentName: Boy_idle_007(Clone)
+      position: {x: -0.11163235, y: 0.9213437, z: 0.032494273}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LMWT
+      parentName: Boy_idle_007(Clone)
+      position: {x: -0.16457307, y: 0.81661206, z: -0.026286008}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LBWT
+      parentName: Boy_idle_007(Clone)
+      position: {x: -0.10544746, y: 0.91724235, z: -0.094932176}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RFWT
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.1040818, y: 0.8964907, z: 0.058472797}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RMWT
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.15520386, y: 0.79759085, z: 0.0009140992}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RBWT
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.114216104, y: 0.89676946, z: -0.06617262}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LTHI
+      parentName: Boy_idle_007(Clone)
+      position: {x: -0.17197247, y: 0.607322, z: -0.023063447}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LKNE
+      parentName: Boy_idle_007(Clone)
+      position: {x: -0.1523143, y: 0.40664542, z: -0.012462987}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LKNU
+      parentName: Boy_idle_007(Clone)
+      position: {x: -0.08828106, y: 0.36419353, z: 0.03038604}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LSHN
+      parentName: Boy_idle_007(Clone)
+      position: {x: -0.15868913, y: 0.28705418, z: -0.036246922}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LANK
+      parentName: Boy_idle_007(Clone)
+      position: {x: -0.13406067, y: 0.030738704, z: -0.070397794}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LHEL
+      parentName: Boy_idle_007(Clone)
+      position: {x: -0.064913, y: 0.032947995, z: -0.14547588}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LMT5
+      parentName: Boy_idle_007(Clone)
+      position: {x: -0.119164705, y: 0.037863072, z: 0.042019844}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LMT1
+      parentName: Boy_idle_007(Clone)
+      position: {x: -0.041104622, y: 0.03288186, z: 0.04485781}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:LTOE
+      parentName: Boy_idle_007(Clone)
+      position: {x: -0.078918405, y: 0.033420637, z: 0.1344117}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RTHI
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.15196373, y: 0.5333988, z: 0.014544832}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RKNE
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.13266052, y: 0.4032296, z: -0.0013785764}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RKNU
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.07363291, y: 0.3789474, z: 0.036005177}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RSHN
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.14113875, y: 0.26517743, z: -0.024728144}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RANK
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.11973826, y: 0.029573074, z: -0.082051925}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RHEL
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.05945413, y: 0.036993507, z: -0.1431627}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RMT5
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.11841768, y: 0.03361392, z: 0.028760573}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RMT1
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.041078363, y: 0.033352517, z: 0.04715244}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MoCap_TaipeiTech_1016:RTOE
+      parentName: Boy_idle_007(Clone)
+      position: {x: 0.0871974, y: 0.03255226, z: 0.12786502}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
